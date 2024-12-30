@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @light2812
-- 👀 I’m interested in UI/UX design and mern dev
-- 🌱 I’m currently learning mern dev
-- 💞️ I’m looking to collaborate on web dev
+- 👀 I've studied in UI/UX design and mern dev
+- 🌱 I’m currently exploring data science and analytics
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me alokvictor777@gmail.com
 
 
